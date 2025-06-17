@@ -4,6 +4,10 @@ Movie Finder is a modern React-based application built with Vite. It allows user
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Click here to view the deployed app](https://movie-finder-one-mu.vercel.app/)
+
 ## 🚀 Features
 
 - 🔍 **Search Movies**: Instantly fetch movies based on your query.
