@@ -14,9 +14,17 @@ Movie Finder is a modern React-based application built with Vite. It allows user
 
 ---
 
+
 ## 🖼️ Preview
 
-![screenshot](screenshot.png) <!-- Add your own screenshot -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7f4aeab4-8f01-4842-b322-9fe06375ab08" alt="Preview 1" width="100%" />
+  <br /><br />
+  <img src="https://github.com/user-attachments/assets/42a44ad1-91d4-4ac7-bfa8-cad38af7ee8f" alt="Preview 2" width="100%" />
+  <br /><br />
+  <img src="https://github.com/user-attachments/assets/b4db70cb-fc6f-4fc9-bebf-6edbc22c37bf" alt="Preview 3" width="100%" />
+</div>
+
 
 ---
 
@@ -107,7 +115,7 @@ const API_KEY = import.meta.env.VITE_API_KEY;
 - ⚛️ React (with Hooks & Context API)
 - ⚡ Vite
 - 🎨 CSS Modules
-- 📦 Axios / Fetch for API calls
+- 📦 Fetch for API calls
 
 ---
 
@@ -121,4 +129,6 @@ const API_KEY = import.meta.env.VITE_API_KEY;
 ## 👨‍💻 Author
 
 **Kaviselvan SJ**  
-[GitHub](https://github.com/Kaviselvan-SJ) • [LinkedIn](https://linkedin.com/in/kaviselvan-sj)
+<a href="https://github.com/Kaviselvan-SJ" target="_blank">GitHub</a> • 
+<a href="https://linkedin.com/in/kaviselvan-sj" target="_blank">LinkedIn</a>
+
