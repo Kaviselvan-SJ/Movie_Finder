@@ -101,15 +101,6 @@ const API_KEY = import.meta.env.VITE_API_KEY;
 
 ---
 
-## 📌 Planned Improvements
-
-- Add localStorage support for favourites
-- Movie detail modal or page
-- Improved error and loading states
-- Pagination or infinite scroll
-
----
-
 ## 🧪 Tech Stack
 
 - ⚛️ React (with Hooks & Context API)
